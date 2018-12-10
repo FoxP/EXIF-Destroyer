@@ -1,13 +1,13 @@
 # EXIF Destroyer
 
 ## About
-[KISS](https://en.wikipedia.org/wiki/KISS_principle) batch script to easily remove EXIF data from JPG files using [ExifTool](http://owl.phy.queensu.ca/~phil/exiftool/).  
+[KISS](https://en.wikipedia.org/wiki/KISS_principle) batch script to easily remove EXIF data from JPG files using [ExifTool](http://owl.phy.queensu.ca/~phil/exiftool/). Protect your privacy / security !  
 Don't want to deal with Command Line or install a heavy, bloated program ? Well, you're in the right place !
 
 ## Usage
 
 On Microsoft Windows, from File Explorer, right clic an image file or a folder containing image files, and select `EXIF Destroyer`.  
-If you don't want to use the provided installer (`exif_destroyer_setup.exe`), drag & drop a folder or an image to `exif_destroyer.bat`.  
+Don't want to use the `exif_destroyer_setup.exe` installer ? Drag & drop a folder or an image to `exif_destroyer.bat`.  
 
 ![](.github/Demo.png)
 
