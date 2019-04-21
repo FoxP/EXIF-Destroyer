@@ -9,7 +9,7 @@ Don't want to deal with Command Line or install a heavy, bloated program ? Well,
 On Microsoft Windows, from File Explorer, right clic an image file or a folder containing image files, and select `EXIF Destroyer`.  
 Don't want to use the `exif_destroyer_setup.exe` installer ? Drag & drop a folder or an image to `exif_destroyer.bat`.  
 
-![](.github/Demo.png)
+![](github/Demo.png)
 
 By default, all EXIF metadata are removed, except camera orientation (can't pose a privacy / security problem).  
 Cleaned JPG are generated in same folder as original files, with "_noexif" suffix in filename.  
